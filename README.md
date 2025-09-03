@@ -1,7 +1,10 @@
 
-# Xeno Rat
+# Xeno Rat Dannyokec FORKED!!
+
 
 <p align='center'>
+<img width="467" height="534" alt="Screenshot_2025-06-06_at_22 44 14-removebg-preview" src="https://github.com/user-attachments/assets/8c6fbc61-0d48-46fc-9f4f-eccf79eb211f" />
+
 <img src="./logo.png" width=200 alt="Xeno-RAT Logo"/>
 </p>
 
@@ -9,7 +12,7 @@ Xeno Rat is a remote access tool (RAT) that is used to control a computer remote
 
 </span>
 
-## What Sets Xeno Rat Apart
+## What Sets Xeno Rat Apart Dannyokec FORKED!! 
 
 Xeno Rat stands out from the crowd for several reasons:
 
@@ -83,11 +86,6 @@ Inside the Xeno-Rat Server, head over to the "Builder" tab, select your custom s
 - Listen on multiple ports
 - password secured
 
-## Issues, Bugs and Contributions
-
-If you find any issues or bugs, please report them [here](https://github.com/moom825/xeno-rat/issues). If you would like to contribute to the project, please fork the repository and submit a pull request. All contributions are welcome. If you don't know how to build the malware, or use it, then please don't open an issue as it will be closed as completed immediately.
-If you like the project, please leave a star!
-
 ## Legal Disclaimer
 
 This tool is for educational purposes only. I am not responsible for any damage done by this tool. Please always stay within legal and ethical boundaries.
@@ -101,20 +99,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### How do I use this tool?
 To get started with Xeno-RAT, follow these simple steps:
 
-1. **Go to the Releases Tab**: Navigate to the "Releases" tab of this GitHub repository to find the latest release. You can find it [here](https://github.com/moom825/xeno-rat/releases).
+1. **Go to the Releases Tab**: Navigate to the "Releases" tab of this GitHub repository to find the latest release. 
 
 2. **Download the Latest Release**: Select the latest release from the list of releases and download the zip file containing the application files.
 
 3. **Unzip the Downloaded File**: After downloading, unzip the downloaded zip file to extract the contents. You can use your operating system's built-in tools or a third-party archive utility.
 
 4. **Run the Executable**: Inside the extracted folder, you will find the executable file. Double-click on this file to run Xeno-RAT.
-
-## Contact
-
-**Contact the Developer:**
-- **Telegram:** [moom825](https://t.me/moom825)
-- **Discord:** moom825
-
-## Donation
-### Buy me a coffee!
-BTC: bc1qg4zy8w5swc66k9xg29c2x6ennn5cyv2ytlp0a6
